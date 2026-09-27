@@ -1,0 +1,9 @@
+a,api,0,ERROR
+b,api,1,ERROR
+c,api,2,ERROR
+d,api,4,ERROR
+d,api,4,ERROR
+e,api,13,ERROR
+f,api,14,ERROR
+g,api,15,ERROR
+h,worker,3,INFO
